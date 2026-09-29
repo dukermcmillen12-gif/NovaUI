@@ -1,0 +1,1 @@
+local Nova = loadstring(game:HttpGet("https://raw.githubusercontent.com/dukermcmillen12-gif/NovaUI/main/NovaUI.lua"))()
